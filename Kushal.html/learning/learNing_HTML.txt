@@ -1,0 +1,30 @@
+html is used to write webpage
+
+soem of the tags and format used in the  html. 
+
+HTML basic settings:
+<!DOCTYPE html>    <!-- represents html 5  documenty -->
+<html>             <!--  root part which is further divided in to head and body-->
+<head>		<!-- one of the main part of the  webpage has tags like title, meta, etc -->
+ <title>           <!--  one you see inside the tabs heading  in the browser-->
+dasd
+</title>
+<meta charset="UTF-8">
+<meta name= "..: content ="  .."> <!-- self closing; has name attribute and has folowing value: author, description, keyWords(for search engine), 
+most importantly scaling :: name ="   viewport" content="width=device-width,  initial-scale=1.0"-->
+<!-- few other s tags or subheading tags are <meta charset="UTF-8">, to refresh the page automatically: p<meta http-equiv="refresh" content="time in sec"> it is data about data -->
+ 
+</head>
+<body>
+</body>
+</html>
+
+
+
+
+------------------------------------
+havbing bootstrap
+between the heading <head> and </head>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>

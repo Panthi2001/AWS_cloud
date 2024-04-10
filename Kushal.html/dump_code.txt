@@ -1,0 +1,3 @@
+ <div class="bottom-logo">
+        <img src="images/logo.png" alt="Logo" id="bottomLogo"> <!-- Reuse the same image with the id -->
+    </div>
